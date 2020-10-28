@@ -1,0 +1,1715 @@
+fileFormatVersion: 2
+guid: 9099d5d85585d7f42a3d3ab20a17cd2c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5710185480788107502
+    second: Unity_Total_0
+  - first:
+      213: -6471200565363841692
+    second: Unity_Total_1
+  - first:
+      213: 2530794983226761039
+    second: Unity_Total_2
+  - first:
+      213: 6107479471166627208
+    second: Unity_Total_3
+  - first:
+      213: -6092881417291183653
+    second: Unity_Total_4
+  - first:
+      213: 969840749181334326
+    second: Unity_Total_5
+  - first:
+      213: 8128620661156730979
+    second: Unity_Total_6
+  - first:
+      213: 6389513699175347195
+    second: Unity_Total_7
+  - first:
+      213: -5169173152247793991
+    second: Unity_Total_8
+  - first:
+      213: -4730476394837474725
+    second: Unity_Total_9
+  - first:
+      213: 3681122442118550541
+    second: Unity_Total_10
+  - first:
+      213: 5415705940744561718
+    second: Unity_Total_11
+  - first:
+      213: -9049412862246259031
+    second: Unity_Total_12
+  - first:
+      213: -7469072007338084641
+    second: Unity_Total_13
+  - first:
+      213: 7122320711010075670
+    second: Unity_Total_14
+  - first:
+      213: 7820036225909909293
+    second: Unity_Total_15
+  - first:
+      213: 8845524154021017795
+    second: Unity_Total_16
+  - first:
+      213: 9185598403306101452
+    second: Unity_Total_17
+  - first:
+      213: -260509061452099087
+    second: Unity_Total_18
+  - first:
+      213: -8868745650858786331
+    second: Unity_Total_19
+  - first:
+      213: 4363633146080011503
+    second: Unity_Total_20
+  - first:
+      213: 1407142116297543257
+    second: Unity_Total_21
+  - first:
+      213: -2645583673991093291
+    second: Unity_Total_22
+  - first:
+      213: 4467068965183724856
+    second: Unity_Total_23
+  - first:
+      213: -3742541375360365901
+    second: Unity_Total_24
+  - first:
+      213: 4665102277954871449
+    second: Unity_Total_25
+  - first:
+      213: -6343090934669769472
+    second: Unity_Total_26
+  - first:
+      213: -278833207137136389
+    second: Unity_Total_27
+  - first:
+      213: -4550510112032113684
+    second: Unity_Total_28
+  - first:
+      213: -7195857219196117165
+    second: Unity_Total_29
+  - first:
+      213: 687841166402244278
+    second: Unity_Total_30
+  - first:
+      213: 7747521981604104666
+    second: Unity_Total_31
+  - first:
+      213: 5004660289656253879
+    second: Unity_Total_32
+  - first:
+      213: -178098438846924096
+    second: Unity_Total_33
+  - first:
+      213: -3888671152799503634
+    second: Unity_Total_34
+  - first:
+      213: -2247241433907641590
+    second: Unity_Total_35
+  - first:
+      213: -1283947448760702686
+    second: Unity_Total_36
+  - first:
+      213: 4096421797609485894
+    second: Unity_Total_37
+  - first:
+      213: -5719068629478805993
+    second: Unity_Total_38
+  - first:
+      213: 5909788076698272099
+    second: Unity_Total_39
+  - first:
+      213: -5840791259172913533
+    second: Unity_Total_40
+  - first:
+      213: 1285399720322423488
+    second: Unity_Total_41
+  - first:
+      213: 2666047765004447131
+    second: Unity_Total_42
+  - first:
+      213: -1069651330361946853
+    second: Unity_Total_43
+  - first:
+      213: -6339654297120941722
+    second: Unity_Total_44
+  - first:
+      213: -2956876172090194306
+    second: Unity_Total_45
+  - first:
+      213: 8446930541770316629
+    second: Unity_Total_46
+  - first:
+      213: 8103171079668809998
+    second: Unity_Total_47
+  - first:
+      213: 5902983540470516283
+    second: Unity_Total_48
+  - first:
+      213: -5754171138528317219
+    second: Unity_Total_49
+  - first:
+      213: -2498823252134133462
+    second: Unity_Total_50
+  - first:
+      213: 754448332818080628
+    second: Unity_Total_51
+  - first:
+      213: -2368595466468136227
+    second: Unity_Total_52
+  - first:
+      213: -5270682298198547344
+    second: Unity_Total_53
+  - first:
+      213: 8893638246644785379
+    second: Unity_Total_54
+  - first:
+      213: 247756614249797975
+    second: Unity_Total_55
+  - first:
+      213: -3696578520972141615
+    second: Unity_Total_56
+  - first:
+      213: -4811442150168086062
+    second: Unity_Total_57
+  - first:
+      213: -712083909278148783
+    second: Unity_Total_58
+  - first:
+      213: 7932194042465280206
+    second: Unity_Total_59
+  - first:
+      213: 5788864375560928512
+    second: Unity_Total_60
+  - first:
+      213: 5962547919590159817
+    second: Unity_Total_61
+  - first:
+      213: -3300328968499850716
+    second: Unity_Total_62
+  - first:
+      213: -3447387949242435246
+    second: Unity_Total_63
+  - first:
+      213: 3686455333555715367
+    second: Unity_Total_64
+  - first:
+      213: -5117800109362541656
+    second: Unity_Total_65
+  - first:
+      213: 5454878311493610548
+    second: Unity_Total_66
+  - first:
+      213: -7724015371383149432
+    second: Unity_Total_67
+  - first:
+      213: -6705334273933550823
+    second: Unity_Total_68
+  - first:
+      213: -8755781213975080504
+    second: Unity_Total_69
+  - first:
+      213: -6305749171626529617
+    second: Unity_Total_70
+  - first:
+      213: -6172516522261501058
+    second: Unity_Total_71
+  - first:
+      213: -8291915555621396207
+    second: Unity_Total_72
+  - first:
+      213: 6402776394945558655
+    second: Unity_Total_73
+  - first:
+      213: 1506851371352664150
+    second: Unity_Total_74
+  - first:
+      213: 191731825694654802
+    second: Unity_Total_75
+  - first:
+      213: -7382346194547365681
+    second: Unity_Total_76
+  - first:
+      213: -2561115748949335665
+    second: Unity_Total_77
+  - first:
+      213: 317938738308067948
+    second: Unity_Total_78
+  - first:
+      213: -2592601006432270078
+    second: Unity_Total_79
+  - first:
+      213: -1967020008797845403
+    second: Unity_Total_80
+  - first:
+      213: -3559802650396500651
+    second: Unity_Total_81
+  - first:
+      213: 8503468586779616459
+    second: Unity_Total_82
+  - first:
+      213: 3003178208712816213
+    second: Unity_Total_83
+  - first:
+      213: -5755818903697842825
+    second: Unity_Total_84
+  - first:
+      213: 1583476158582897060
+    second: Unity_Total_85
+  - first:
+      213: 1000217828208987879
+    second: Unity_Total_86
+  - first:
+      213: 2119094575242826658
+    second: Unity_Total_87
+  - first:
+      213: -4589481711576846199
+    second: Unity_Total_88
+  - first:
+      213: 2852891640659980495
+    second: Unity_Total_89
+  - first:
+      213: 1873223269714696977
+    second: Unity_Total_90
+  - first:
+      213: -5432545706880291778
+    second: Unity_Total_91
+  - first:
+      213: 9134606521668172797
+    second: Unity_Total_92
+  - first:
+      213: -975764191969364522
+    second: Unity_Total_93
+  - first:
+      213: -4051353356973923566
+    second: Unity_Total_94
+  - first:
+      213: -3838994439100864011
+    second: Unity_Total_95
+  - first:
+      213: -3376824642435286343
+    second: Unity_Total_96
+  - first:
+      213: -839141409731413740
+    second: Unity_Total_97
+  - first:
+      213: 2539894043742404601
+    second: Unity_Total_98
+  - first:
+      213: -6538304817894211749
+    second: Unity_Total_99
+  - first:
+      213: -8170445823891439366
+    second: Unity_Total_100
+  - first:
+      213: 8688942648335897021
+    second: Unity_Total_101
+  - first:
+      213: 5610447840837530388
+    second: Unity_Total_102
+  - first:
+      213: -6982186581467880034
+    second: Unity_Total_103
+  - first:
+      213: 3840592848296648075
+    second: Unity_Total_104
+  - first:
+      213: 9127521511473682678
+    second: Unity_Total_105
+  - first:
+      213: 5418693416427172593
+    second: Unity_Total_106
+  - first:
+      213: 8266473479545658353
+    second: Unity_Total_107
+  - first:
+      213: 744945508277230404
+    second: Unity_Total_108
+  - first:
+      213: 7436039675124269918
+    second: Unity_Total_109
+  - first:
+      213: 1126822667914684719
+    second: Unity_Total_110
+  - first:
+      213: 1009006593679922471
+    second: Unity_Total_111
+  - first:
+      213: -2765567876792889272
+    second: Unity_Total_112
+  - first:
+      213: 3270354305600678825
+    second: Unity_Total_113
+  - first:
+      213: -379492755365828342
+    second: Unity_Total_114
+  - first:
+      213: -3897837897331878285
+    second: Unity_Total_115
+  - first:
+      213: 4675110359220764359
+    second: Unity_Total_116
+  - first:
+      213: -4678364574187604346
+    second: Unity_Total_117
+  - first:
+      213: 5759264982510755450
+    second: Unity_Total_118
+  - first:
+      213: -1058478935103402026
+    second: Unity_Total_119
+  - first:
+      213: 2787059101381590971
+    second: Unity_Total_120
+  - first:
+      213: 9131378954316754767
+    second: Unity_Total_121
+  - first:
+      213: -7583117339586173747
+    second: Unity_Total_122
+  - first:
+      213: -4720616184099800615
+    second: Unity_Total_123
+  - first:
+      213: 6275576823239306883
+    second: Unity_Total_124
+  - first:
+      213: -5396586278485518488
+    second: Unity_Total_125
+  - first:
+      213: -1756380780260772486
+    second: Unity_Total_126
+  - first:
+      213: -3336831157440850302
+    second: Unity_Total_127
+  - first:
+      213: 3176665775401309609
+    second: Unity_Total_128
+  - first:
+      213: -1605470628613816011
+    second: Unity_Total_129
+  - first:
+      213: 6754838798688391890
+    second: Unity_Total_130
+  - first:
+      213: -2871257901226055757
+    second: Unity_Total_131
+  - first:
+      213: 1029408631719082748
+    second: Unity_Total_132
+  - first:
+      213: 485045536545871355
+    second: Unity_Total_133
+  - first:
+      213: -1904464041635558369
+    second: Unity_Total_134
+  - first:
+      213: 6159310538219685961
+    second: Unity_Total_135
+  - first:
+      213: -180433060705127411
+    second: Unity_Total_136
+  - first:
+      213: 3118895859605999521
+    second: Unity_Total_137
+  - first:
+      213: 1301039822439168297
+    second: Unity_Total_138
+  - first:
+      213: 4399872210476623057
+    second: Unity_Total_139
+  - first:
+      213: 2465264274024993155
+    second: Unity_Total_140
+  - first:
+      213: 6323428379274899255
+    second: Unity_Total_141
+  - first:
+      213: 637263423421811595
+    second: Unity_Total_142
+  - first:
+      213: 2125920667206259817
+    second: Unity_Total_143
+  - first:
+      213: -6895919583263263740
+    second: Unity_Total_144
+  - first:
+      213: -6013747265906461516
+    second: Unity_Total_145
+  - first:
+      213: -5280520107604480088
+    second: Unity_Total_146
+  - first:
+      213: 7484157662492594559
+    second: Unity_Total_147
+  - first:
+      213: 939289847089053415
+    second: Unity_Total_148
+  - first:
+      213: 3058597736620858106
+    second: Unity_Total_149
+  - first:
+      213: -8337597866140722318
+    second: Unity_Total_150
+  - first:
+      213: 8905598875664558145
+    second: Unity_Total_151
+  - first:
+      213: -3413600485695670792
+    second: Unity_Total_152
+  - first:
+      213: -3275743742852997587
+    second: Unity_Total_153
+  - first:
+      213: -283464114523229619
+    second: Unity_Total_154
+  - first:
+      213: -6905757993436662190
+    second: Unity_Total_155
+  - first:
+      213: 8286184381309747159
+    second: Unity_Total_156
+  - first:
+      213: 6250298066997327689
+    second: Unity_Total_157
+  - first:
+      213: -1082029157016111054
+    second: Unity_Total_158
+  - first:
+      213: 897011756661453110
+    second: Unity_Total_159
+  - first:
+      213: 8126250769726178819
+    second: Unity_Total_160
+  - first:
+      213: -3720371894749800810
+    second: Unity_Total_161
+  - first:
+      213: -1731258318477680228
+    second: Unity_Total_162
+  - first:
+      213: 8329944885825017605
+    second: Unity_Total_163
+  - first:
+      213: 693864763594188238
+    second: Unity_Total_164
+  - first:
+      213: 6945131906027602126
+    second: Unity_Total_165
+  - first:
+      213: -6587080040127012470
+    second: Unity_Total_166
+  - first:
+      213: -9168212579638161327
+    second: Unity_Total_167
+  - first:
+      213: -5262283890082676286
+    second: Unity_Total_168
+  - first:
+      213: -7755624964393197121
+    second: Unity_Total_169
+  - first:
+      213: 3427386026952015855
+    second: Unity_Total_170
+  - first:
+      213: -8113184575348850413
+    second: Unity_Total_171
+  - first:
+      213: -7141897160388576184
+    second: Unity_Total_172
+  - first:
+      213: -918296308012906562
+    second: Unity_Total_173
+  - first:
+      213: 4057077039835783598
+    second: Unity_Total_174
+  - first:
+      213: -5382576526443898052
+    second: Unity_Total_175
+  - first:
+      213: 5270920905806580608
+    second: Unity_Total_176
+  - first:
+      213: 6076051073344499170
+    second: Unity_Total_177
+  - first:
+      213: 826604511765046538
+    second: Unity_Total_178
+  - first:
+      213: -4810022864774597532
+    second: Unity_Total_179
+  - first:
+      213: -1929296720196268804
+    second: Unity_Total_180
+  - first:
+      213: 4574475755391476981
+    second: Unity_Total_181
+  - first:
+      213: 4469100339561060371
+    second: Unity_Total_182
+  - first:
+      213: -1926204438558953118
+    second: Unity_Total_183
+  - first:
+      213: 1470335542449155409
+    second: Unity_Total_184
+  - first:
+      213: 7660553122990847439
+    second: Unity_Total_185
+  - first:
+      213: -4329324331454357399
+    second: Unity_Total_186
+  - first:
+      213: 8921674661894908713
+    second: Unity_Total_187
+  - first:
+      213: -3600305977600340644
+    second: Unity_Total_188
+  - first:
+      213: 1462384667063937805
+    second: Unity_Total_189
+  - first:
+      213: 5525756568429312807
+    second: Unity_Total_190
+  - first:
+      213: -5636577339017944523
+    second: Unity_Total_191
+  - first:
+      213: 2724560978741147473
+    second: Unity_Total_192
+  - first:
+      213: 3225259327839958470
+    second: Unity_Total_193
+  - first:
+      213: 7861068001287569704
+    second: Unity_Total_194
+  - first:
+      213: 733353494043123378
+    second: Unity_Total_195
+  - first:
+      213: 5675497849163374546
+    second: Unity_Total_196
+  - first:
+      213: 5005480406011910070
+    second: Unity_Total_197
+  - first:
+      213: -4420973679446832270
+    second: Unity_Total_198
+  - first:
+      213: -5561705021651827071
+    second: Unity_Total_199
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unity_Total_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f18002f8851c0b0800000000000000
+      internalID: -5710185480788107502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4656e272f5da136a0800000000000000
+      internalID: -6471200565363841692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f5296e0a03f1320800000000000000
+      internalID: 2530794983226761039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d90ef583022c450800000000000000
+      internalID: 6107479471166627208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c7c7e1acb17ba0800000000000000
+      internalID: -6092881417291183653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633f6afd501957d00800000000000000
+      internalID: 969840749181334326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368d52e8c69aec070800000000000000
+      internalID: 8128620661156730979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3b6d63bdc1ca850800000000000000
+      internalID: 6389513699175347195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b8cdc7686348b0800000000000000
+      internalID: -5169173152247793991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52875338c8f95eb0800000000000000
+      internalID: -4730476394837474725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d1319b59f51330800000000000000
+      internalID: 3681122442118550541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6346d060cd3782b40800000000000000
+      internalID: 5415705940744561718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6f5f792f60a6280800000000000000
+      internalID: -9049412862246259031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6bcc80596885890800000000000000
+      internalID: -7469072007338084641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c92473f097d260800000000000000
+      internalID: 7122320711010075670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27eb00e389568c60800000000000000
+      internalID: 7820036225909909293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c87f8c3a5d91ca70800000000000000
+      internalID: 8845524154021017795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca9476941dc97f70800000000000000
+      internalID: 9185598403306101452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1906b836c726cf0800000000000000
+      internalID: -260509061452099087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e18545b1d2ebe480800000000000000
+      internalID: -8868745650858786331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe428321a3dbe8c30800000000000000
+      internalID: 4363633146080011503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e0866ac4c278310800000000000000
+      internalID: 1407142116297543257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d320385aaff84bd0800000000000000
+      internalID: -2645583673991093291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d92f86e873efd30800000000000000
+      internalID: 4467068965183724856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba817ca272df0cc0800000000000000
+      internalID: -3742541375360365901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_25
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ad561ec5cdb040800000000000000
+      internalID: 4665102277954871449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_26
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005020de660d8f7a0800000000000000
+      internalID: -6343090934669769472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01209eca2612cf0800000000000000
+      internalID: -278833207137136389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebb089a92759d0c0800000000000000
+      internalID: -4550510112032113684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f92630cfd232c90800000000000000
+      internalID: -7195857219196117165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6becb4185e3bb8900800000000000000
+      internalID: 687841166402244278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad90b03b13ab48b60800000000000000
+      internalID: 7747521981604104666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bde6728400247540800000000000000
+      internalID: 5004660289656253879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca3a79d964478df0800000000000000
+      internalID: -178098438846924096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeaa319803aa80ac0800000000000000
+      internalID: -3888671152799503634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03456f72d130d0e0800000000000000
+      internalID: -2247241433907641590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229695619908e2ee0800000000000000
+      internalID: -1283947448760702686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_37
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6463ea0dbe969d830800000000000000
+      internalID: 4096421797609485894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_38
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ee5d5e169c1a0b0800000000000000
+      internalID: -5719068629478805993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_39
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618071c1f8c30250800000000000000
+      internalID: 5909788076698272099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ebacdab4751fea0800000000000000
+      internalID: -5840791259172913533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 27
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca543c3c38a6d110800000000000000
+      internalID: 1285399720322423488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d60532154bff420800000000000000
+      internalID: 2666047765004447131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d804448c5d721f0800000000000000
+      internalID: -1069651330361946853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_44
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d35571060508a0800000000000000
+      internalID: -6339654297120941722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e764fb5a9c017f6d0800000000000000
+      internalID: -2956876172090194306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unity_Total_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b1e90f296893570800000000000000
+      internalID: 8446930541770316629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
