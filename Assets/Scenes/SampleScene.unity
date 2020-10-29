@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 52244341}
   - component: {fileID: 52244340}
   - component: {fileID: 52244339}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -241,7 +241,7 @@ GameObject:
   - component: {fileID: 280758168}
   - component: {fileID: 280758167}
   - component: {fileID: 280758166}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 418673080}
   - component: {fileID: 418673079}
   - component: {fileID: 418673078}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -501,7 +501,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 6
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -542,7 +542,7 @@ GameObject:
   - component: {fileID: 758858341}
   - component: {fileID: 758858340}
   - component: {fileID: 758858339}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -656,7 +656,7 @@ GameObject:
   - component: {fileID: 866962074}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -741,7 +741,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDrag: 2
   m_AngularDrag: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 3.5
   m_Material: {fileID: 0}
   m_Interpolate: 0
   m_SleepingMode: 1
@@ -761,7 +761,7 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.6, y: 0.9}
   m_Direction: 0
 --- !u!95 &866962073
 Animator:
@@ -795,6 +795,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxSpeed: 4.5
+  jumpPower: 15
 --- !u!1 &1065687388
 GameObject:
   m_ObjectHideFlags: 0
@@ -915,7 +916,7 @@ GameObject:
   - component: {fileID: 1165121785}
   - component: {fileID: 1165121784}
   - component: {fileID: 1165121786}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: RightFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1142,7 +1143,7 @@ GameObject:
   - component: {fileID: 1468734614}
   - component: {fileID: 1468734613}
   - component: {fileID: 1468734612}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1251,7 +1252,7 @@ GameObject:
   - component: {fileID: 1495205229}
   - component: {fileID: 1495205228}
   - component: {fileID: 1495205230}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: LeftFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1479,7 +1480,7 @@ GameObject:
   - component: {fileID: 1866840168}
   - component: {fileID: 1866840167}
   - component: {fileID: 1866840166}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1588,7 +1589,7 @@ GameObject:
   - component: {fileID: 1879322196}
   - component: {fileID: 1879322195}
   - component: {fileID: 1879322194}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1697,7 +1698,7 @@ GameObject:
   - component: {fileID: 1924679429}
   - component: {fileID: 1924679428}
   - component: {fileID: 1924679427}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1806,7 +1807,7 @@ GameObject:
   - component: {fileID: 1928835093}
   - component: {fileID: 1928835092}
   - component: {fileID: 1928835091}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1915,7 +1916,7 @@ GameObject:
   - component: {fileID: 1946156598}
   - component: {fileID: 1946156597}
   - component: {fileID: 1946156596}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2024,7 +2025,7 @@ GameObject:
   - component: {fileID: 1996875178}
   - component: {fileID: 1996875177}
   - component: {fileID: 1996875176}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2133,7 +2134,7 @@ GameObject:
   - component: {fileID: 1998406855}
   - component: {fileID: 1998406854}
   - component: {fileID: 1998406856}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2242,7 +2243,7 @@ GameObject:
   - component: {fileID: 2146986022}
   - component: {fileID: 2146986021}
   - component: {fileID: 2146986020}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: CenterFloor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
