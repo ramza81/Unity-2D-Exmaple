@@ -9,7 +9,7 @@ public class EnemyMove : MonoBehaviour
     float nextThinktime ;
     Animator animator;
     SpriteRenderer sprite;
-
+    
     private void Awake() {
         rigid = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
