@@ -9,11 +9,14 @@ public class EnemyMove : MonoBehaviour
     float nextThinktime ;
     Animator animator;
     SpriteRenderer sprite;
+    CapsuleCollider2D capsuleCollider2D;
     
     private void Awake() {
         rigid = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
+        capsuleCollider2D = GetComponent<CapsuleCollider2D>();
+
         Think();
 
         nextThinktime = Random.Range(2f, 5f);
@@ -61,5 +64,29 @@ public class EnemyMove : MonoBehaviour
         
         CancelInvoke();
         Invoke("Think", 3);           
+    }
+
+    public void OnDamaged()
+    {
+        // Sprite Alpha
+        sprite.color = new Color(1, 1, 1, 0.4f);
+
+        // Sprite Flip Y
+        sprite.flipY = true;
+
+        // Collider Diable
+        capsuleCollider2D.enabled = false;
+
+        // Die Effect Jump
+        rigid.AddForce(Vector2.up * 5, ForceMode2D.Impulse);
+
+        // Destroy
+        Invoke("DeActive", 5);
+
+    }
+
+    void DeActive()
+    {
+        gameObject.SetActive(false);
     }
 }

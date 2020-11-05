@@ -4,17 +4,29 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {  
+    public GameManager gameManager;
+    public AudioClip audioJump;
+    public AudioClip audioAttack;
+    public AudioClip audioDamaged;
+    public AudioClip audioItem;
+    public AudioClip audioDie;
+    public AudioClip audioFinish;
+
     public float maxSpeed;
     public float jumpPower;
     Rigidbody2D rigid;
     SpriteRenderer spriteRenderer;
     Animator animator;
+    CapsuleCollider2D capsuleCollider2D;
+    AudioSource audioSource;
 
     private void Awake() {
         rigid = GetComponent<Rigidbody2D>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-    }
+        capsuleCollider2D = GetComponent<CapsuleCollider2D>();
+        audioSource = GetComponent<AudioSource>();
+    }   
 
     private void Update() {
         // Jump
@@ -22,6 +34,9 @@ public class PlayerMove : MonoBehaviour
         {
             rigid.AddForce(Vector2.up * jumpPower, ForceMode2D.Impulse);
             animator.SetBool("isJumping", true);
+
+            // Sound
+            PlaySound("JUMP");
         }
 
         // Stop Speed
@@ -87,12 +102,81 @@ public class PlayerMove : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other) {
         if (other.gameObject.tag == "Enemy")
         {
-            OnDamaged(other.transform.position);    
+            // Attack
+            if (rigid.velocity.y < 0 && transform.position.y > other.transform.position.y)
+            {
+                OnAttack(other.transform);
+            }
+            // Damaged
+            else
+            {
+                OnDamaged(other.transform.position);    
+            }
         }
+    }
+
+    private void OnTriggerEnter2D(Collider2D other) {
+        if (other.gameObject.tag == "Item")
+        {
+            // Point
+            bool isBronze = other.gameObject.name.Contains("Bronze");
+            bool isSilver = other.gameObject.name.Contains("Silver");
+            bool isGold = other.gameObject.name.Contains("Gold");
+
+            if (isBronze)
+            {
+                gameManager.stagePoint += 50;                
+            }
+            else if (isSilver)
+            {
+                gameManager.stagePoint += 100;                
+            }
+            else if (isGold)
+            {
+                gameManager.stagePoint += 300;                
+            }            
+
+            // Deactive Item
+            other.gameObject.SetActive(false);
+
+            // Sound
+            PlaySound("ITEM");
+        }
+        else if (other.gameObject.tag == "Finish")
+        {
+            // Next Stage
+            gameManager.NextStage();
+
+            // Sound
+            PlaySound("FINISH");            
+
+        }
+    }
+
+    void OnAttack(Transform enemy)
+    {
+        // Sound
+        PlaySound("ATTACK");
+
+        // Point
+        gameManager.stagePoint += 100;
+
+        // Reaction Force
+        rigid.AddForce(Vector2.up * 5, ForceMode2D.Impulse);
+
+        // Enemy Die
+        EnemyMove enemyMove = enemy.GetComponent<EnemyMove>();
+        enemyMove.OnDamaged();
     }
 
     void OnDamaged(Vector2 targetPos)
     {
+        // Sound
+        PlaySound("DAMAGED");
+
+        // Health Down
+        gameManager.HealthDown();
+
         // Change Layer (Immortal Active)
         gameObject.layer = 11;
 
@@ -106,7 +190,6 @@ public class PlayerMove : MonoBehaviour
         // Animation
         animator.SetTrigger("doDamaged");
 
-        
         Invoke("OffDamaged", 2);
     }
 
@@ -116,7 +199,58 @@ public class PlayerMove : MonoBehaviour
         gameObject.layer = 10;
 
         // View Alpha
-        spriteRenderer.color = new Color(1, 1, 1, 1f);        
+        spriteRenderer.color = new Color(1, 1, 1, 1f);
     }
-}
 
+    public void OnDie()
+    {
+        // Sound
+        PlaySound("DIE");
+
+        // Sprite Alpha
+        spriteRenderer.color = new Color(1, 1, 1, 0.4f);
+
+        // Sprite Flip Y
+        spriteRenderer.flipY = true;
+
+        // Collider Disable
+        capsuleCollider2D.enabled = false;
+
+        // Die Effect Jump
+        rigid.AddForce(Vector2.up * 5, ForceMode2D.Impulse);
+
+    }
+
+    public void VelocityZero()
+    {
+        rigid.velocity = Vector2.zero;
+    }
+
+void PlaySound(string action)
+    {
+        switch (action) {
+            case "JUMP":
+                audioSource.clip = audioJump;
+                break;
+            case "ATTACK":
+                audioSource.clip = audioAttack;
+                break; 
+            case "DAMAGED":
+                audioSource.clip = audioDamaged;
+                break;       
+            case "ITEM":
+                audioSource.clip = audioItem;
+                break;                      
+            case "DIE":
+                audioSource.clip = audioDie;
+                break;                     
+            case "FINISH":
+                audioSource.clip = audioFinish;
+                break;                            
+            default:
+                return;
+        }
+
+        audioSource.Play();
+    }    
+}
